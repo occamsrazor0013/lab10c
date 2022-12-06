@@ -7,16 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Problem 3: The framework that I went with was React. This was a very familiar framework that I have used, as I've done several projects with it. As long as you have the latest version of Node.js, you can easily install it through the Node Package Manager(npm). 
+          Through the VSCode terminal, all you have to do is type 'npx create-react-app [app-name]'. I didn't actually build this page, this was already done through the basic react project. I've had no difficulties because all I did was edit the default page in the source folder.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
